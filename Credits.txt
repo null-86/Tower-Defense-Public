@@ -1,0 +1,56 @@
+Common:
+-------
+CC0 - public domain (no copyright) https://creativecommons.org/publicdomain/zero/1.0/
+CC4 - https://creativecommons.org/licenses/by/4.0/
+Free - free no attribution but do it anyway
+GQ - Gregor Quendel
+MG - Marcel Gnauk
+mod and self are self explanatory
+
+
+Sprites:
+--------
+lightning.png CC0 https://opengameart.org/content/lightning-sprite-texture
+
+ship-high-tech-1 CC0 https://publicdomainvectors.org/en/free-clipart/Grey-flying-object/74238.html
+ship-simple-1 CC0 https://publicdomainvectors.org/en/free-clipart/Colorful-missle-vector-image/74243.html
+
+<a href="https://www.freepik.com/vectors/technology">Technology vector created by brgfx - www.freepik.com</a>
+free-pik-1 !! Attribution Required !! <a href='https://www.freepik.com/vectors/technology'>Technology vector created by brgfx - www.freepik.com</a>
+
+Images:
+-------
+space-1 CC0 Photo by Francesco Ungaro from Pexels https://www.pexels.com/photo/starry-sky-998641/
+space-2 CC0 Photo by Alberlan Barros from Pexels https://www.pexels.com/photo/space-telescope-galaxy-exploration-7311920/
+space-3 CC0 Photo by Miriam Espacio from Pexels https://www.pexels.com/photo/blue-pink-and-white-andromeda-galaxy-way-110854/
+space-4 CC0 Photo by Felix Mittermeier from Pexels https://www.pexels.com/photo/blue-universe-956981/
+space-5 CC0 Photo by Kai Pilger from Pexels https://www.pexels.com/photo/cluster-of-stars-1341279/
+space-6 CC0 Photo by Felix Mittermeier from Pexels https://www.pexels.com/photo/sky-with-stars-illustration-957061/
+space-7 CC0 Photo by Photo by Felix Mittermeier from Pexels https://www.pexels.com/photo/galaxy-1146134/
+space-8 CC0 Photo by Pixabay via Pexels https://www.pexels.com/photo/photo-of-galaxy-207529/
+space-9 CC0 Photo by Alexandre P. Junior from Pexels https://www.pexels.com/photo/stars-in-the-sky-during-night-time-7736104/
+
+
+space-object-1.png CC0 Photo by Alex Andrews from Pexels (rotated 90 degrees) https://www.pexels.com/photo/photo-of-deep-sky-object-816608/ 
+
+
+
+
+Sound Effects:
+--------------
+Marcel Gnauk through 99sounds.org (Free)
+-Underground Sounds https://99sounds.org/underground-sounds/
+-Rain And Thunder https://99sounds.org/rain-and-thunder/
+-World Sounds https://99sounds.org/world-sounds/
+
+99sounds.org
+-99 Sound Effects https://99sounds.org/free-sound-effects/
+
+Gregor Quendel - CC4
+-Designed Circuits
+-Designed Fire
+-Designed Ice
+-Designed Mecha
+-Designed Plastics
+-Designed Rocks
+-Designed Sci-fi
