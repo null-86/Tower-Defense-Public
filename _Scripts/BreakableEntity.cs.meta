@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: efdfff509c1aba74c911ee800f40e27a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sprite: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - healthBarPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
